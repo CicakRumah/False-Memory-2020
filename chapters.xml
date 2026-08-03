@@ -1,0 +1,119 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>962460814179478048</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>7253775598416974412</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Idents</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Logo</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:17.291000000</ChapterTimeStart>
+      <ChapterUID>14948185558383481393</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Prologue</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Prolog</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:09.207000000</ChapterTimeStart>
+      <ChapterUID>7613722546363404876</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Bagian A</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:05:23.125000000</ChapterTimeStart>
+      <ChapterUID>13167278064370329545</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Bagian B</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:07:29.207000000</ChapterTimeStart>
+      <ChapterUID>14549526455744336652</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part C</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Bagian C</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:11:16.541000000</ChapterTimeStart>
+      <ChapterUID>18053647747941782</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part D</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Bagian D</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:16:38.166000000</ChapterTimeStart>
+      <ChapterUID>15146063741984688036</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Epilogue</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Epilog</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:17:22.500000000</ChapterTimeStart>
+      <ChapterUID>11213711918686220194</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Ending</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Penutup</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
